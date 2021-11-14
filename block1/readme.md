@@ -3,8 +3,8 @@
 ## Vorbereitung
 - [ ] Ertellen eines GibHub-Accounts für den Kurs oder benutzen Sie einen Bestehenden;
 - [ ] Erstellen Sie ein Repository für die Resultate Ihrer Hausaufgaben; 
-- [ ] \(Gruppe) Ertellen eines gemeinsamen Repositories für die Resultate Ihrer Gruppenarbeit;
-- [ ] \(optional) Nutzen von diagram.io: siehe Kurzanleitung;
+- [ ] \(Gruppe) Bilden Sie eine 3er-Gruppe und max eine 2er-Gruppe in Ihrer Klasse;
+- [ ] \(Gruppe) Ertellen sie für Ihre Gruppe ein gemeinsames Repositories für die Resultate Ihrer Gruppenarbeiten;
 <!-- Was fehlt hier noch?--> 
 
 ---
@@ -25,9 +25,13 @@ Unterstützung:
 Präsentation 5' am `Termin`;
 
 ### Kontext-Diagramm
-
+:o:
 ---
 ## Kontext-Diagramm: Gruppe
+:o:
 ### Vorbereitung
+:o:
 ### Aufgabe
+:o:
 ### Resultate und Termine
+:o:
