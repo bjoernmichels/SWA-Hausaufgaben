@@ -1,5 +1,12 @@
 # Hausaufgaben Block 1
+---
+## Vorbereitung
+- [ ] Ertellen eines GibHub-Accounts für den Kurs;
+- [ ] \(optional) Nutzen von diagram.io: siehe Kurzanleitung;
+- [ ] \(Gruppe) Ertellen eines gemeinsamen Repositories;
+- [ ] 
 
+---
 ## Eigene Anwendung
 
 Sie haben schon selber Software entwickelt. zB in den Kursen Web-Technologien oder Programmierung. Suchen sie sich eines dieser Projekte aus für diese Aufgabe aus.
@@ -11,5 +18,5 @@ Präsentation 5' am `Termin`;
 
 ### Kontext-Diagramm
 
-
+---
 ## Kontext-Diagramm: Gruppe
