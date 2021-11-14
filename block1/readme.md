@@ -26,6 +26,7 @@ Präsentation 5' am `Termin`;
 
 ### Kontext-Diagramm
 :o:
+
 ---
 ## Kontext-Diagramm: Gruppe
 :o:
