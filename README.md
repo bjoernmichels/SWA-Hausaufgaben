@@ -1,4 +1,4 @@
-# SWA-Hausaufgaben
+# Kurs Softwarearchitektur: Hausaufgaben
 Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
 
 - Hausaufgaben [Block 1](block1/readme.md);
