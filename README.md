@@ -7,4 +7,4 @@ Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
 - Hausaufgaben Block 4: wenig. Diese werden am Ende des Kursblock 4 erläutert;
 - Hausaufgaben Block 5: keine (selbständige Prüfungsvorbereitung)
 - Kursblock 6 --> End of course :partying_face:
--asdfadf
+<br> -asdfadf
