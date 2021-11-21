@@ -1,4 +1,10 @@
 # Hausaufgaben Block 1
+
+Summary:
+- Use-Case- und Kontext eigener Applikation (Einzelarbeit);
+- (Gruppenarbeit)
+- 
+
 ---
 ## Vorbereitung
 - [ ] Ertellen eines GibHub-Accounts für den Kurs oder benutzen Sie einen Bestehenden;
