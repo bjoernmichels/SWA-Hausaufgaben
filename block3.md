@@ -1,10 +1,6 @@
 # Hausaufgaben Block 3
 
 <!--
-2. SWA
-    ◦ Lesen: TipToi || CovidApp
-    ◦ Eigene: DeplDiagr
-    ◦ Gruppe: DeplDiagr
 1. Q
     ◦ Lesen: Argus
     ◦ Korrekturen der Resultate
@@ -20,27 +16,34 @@ TBD:
 -->
 
 Summary:
-- Verteilungs-Diagramm ihrer selbstgeschriebenen Applikation (Einzelarbeit);
-- Verteilungs-Diagramm der Gruppen-Anwendung (Gruppenarbeit);
-- Resultate auf GitHub;
-- Einlesen in die Anwendung :o:
+- Einlesen in die Anwendung :o: Argus
+- Weiterbildung mit Podcast
+- Korrigieren Sie ihr Repository
+- Korrigieren Sie das Repository der Gruppenarbeit
+
+---
+## Vorbeitung auf nächsten Unterricht (Einzelarbeit)
+- [ ] Lesen sie sich in die Anwendung :o: (Argus) als Vorbereitung für den nächsten Unterricht ein. Folgende Quellen können hilfreich sein: :o:
+- [ ] Beantworten sie für sich folgende Fragen: :o: :o: :o:
 
 ---
 ## Eigene Anwendung (Einzelarbeit)
 
 ### Aufgabe
-- [ ] Erstellen Sie das **Verteilungs-Diagramm** für Ihre Anwendung mit einer kurzen **Erläuterung** des Diagramms;
+- [ ] Korrigieren / Aktualisieren Sie die Dokumentation auf dem Repository;
 
-### Resultate und Termine
-- [ ] Dokumentieren Sie die Resultate in Ihrem **Github-Repo der Einzelarbeit**. Das Diagramm können Sie von Hand-Skizzieren und als Foto hochladen oder einen Editor Ihrer Wahl benuzten (zB diagrams.net);
-- [ ] Halten Sie sich bereit, Ihre Resultat vorzustellen (<3'); :o:
-- [ ] :date: **2.3.2022** (sodass der Dozent Feedback geben kann)
+---
+## Podcast (Einzelarbeit)
+
+### Aufgabe
+- [ ] Wählen Sie eine Postcast-Folge aus und Stimmen sie dies mit der Klasse ab ( :o: Link auf Repo :o: );
+- [ ] Hören sie die Postcast-Folge und bereiten Sie sich vor, den Inhalt kurz vorzustellen (<3min) und eine Empfehlung auszusprechen (Lohnt es sich die Folge zu hören? Was hat ihnen gefallen / nicht gefallen?) ;
 
 ---
 ## Gruppenarbeit
 
 ### Aufgabe
-- [ ] Erstellen Sie das **Verteilungs-Diagramm** für die Anwendung mit einer kurzen **Erläuterung** des Diagramms;
+- [ ] Korrigieren / Aktualisieren Sie die Dokumentation auf dem Repository;
 
 ### Resultate und Termine
 - [ ] Dokumentieren Sie die Resultate im **Github-Repo der Gruppe**. Diagramme können Sie von Hand-Skizzieren und als Foto hochladen oder einen Editor Ihrer Wahl benuzten (zB diagrams.net);
