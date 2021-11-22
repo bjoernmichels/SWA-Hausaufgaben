@@ -44,14 +44,19 @@ Summary:
 <!-- Was fehlt hier noch?--> 
 
 ---
-## Eigene Anwendung
+## Eigene Anwendung (Einzelarbeit)
+
 ### Vorbereitung
 Sie haben schon selber Software entwickelt. zB in den Kursen Web-Technologien oder Programmierung. Suchen sie sich eines dieser Projekte aus für diese Aufgabe aus.
+
 ### Aufgabe
-Erstellen die das **UseCase Diagram** für ihre gewählte Anwendung. Schränken Sie sich auf die Elemente `System`, `Actor`, `UseCase` und die ungerichtete `Assoziation`. Das Use Case-Diagramm haben sie im Kurs Requirements-Engieering kennengelernt. Referenz: Buch IREB ... Kapitel "Blah blah" :o:
+a) Erstellen Sie kurze Beschreibung für ihre gewählte Anwendung;
+b) Erstellen Sie das **Kontext-Diagramm** für diese Anwendung;
+c) Erstellen die das **UseCase Diagram** der Anwendung. Schränken Sie sich auf die Elemente `System`, `Actor`, `UseCase` und die ungerichtete `Assoziation` ein. Das Use Case-Diagramm haben sie im Kurs Requirements-Engieering kennengelernt.
+
 ### Resultate und Termine
 Resultate: 
-- [ ] Laden sie das **Diagramm** in das Github-Repo. Das Diagram können Sie von Hand-Skizzieren und hochladen oder einen Editor Ihrer Wahl benuzten.
+- [ ] Laden sie die **Beschreibung** und die **Diagramme** in das Github-Repo der Einzelarbeit. Das Diagram können Sie von Hand-Skizzieren und als Foto hochladen oder einen Editor Ihrer Wahl benuzten (zB draw.io).
 - [ ] **Erläutern** sie das Diagramm möglichst knapp.
 
 Unterstützung:
