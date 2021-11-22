@@ -1,5 +1,34 @@
 # Hausaufgaben Block 1
 
+<!--
+1. Intro
+eigene Anw (einzelArb)
+    ◦ UseCase Diagr
+    ◦ KontextDiagr
+    GruppenArb:
+    ◦ Beschreibung Anw.
+    ◦ UCD
+    ◦ Kontext
+2. SWA
+    ◦ Lesen: TipToi || CovidApp
+    ◦ Eigene: DeplDiagr
+    ◦ Gruppe: DeplDiagr
+1. Q
+    ◦ Lesen: Argus
+    ◦ Korrekturen der Resultate
+    ◦ PodCast
+1. Style
+    ◦ CleanUp ArchBeschr.
+1. Case: Infoboard
+2. Prüfung
+
+TBD:
+◦ GitHub collab
+◦ Podcast & vorstellen
+-->
+
+
+
 Summary:
 - Kontext- & Use-Case-Diagramm einer selbstgeschriebenen Applikation (Einzelarbeit);
 - Kontext- & Use-Case-Diagramm der Gruppen-Anwendung (Gruppenarbeit);
