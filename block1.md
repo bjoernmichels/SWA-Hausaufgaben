@@ -64,7 +64,7 @@ Sie haben schon selber Software entwickelt. zB in den Kursen Web-Technologien od
 - [ ] Wählen Sie eine Anwendung für Ihre Gruppenarbeit aus;
 
 ### Aufgabe
-- [ ] Erstellen Sie kurze Beschreibung für ihre gewählte Anwendung;
+- [ ] Erstellen Sie kurze **Beschreibung** für ihre gewählte Anwendung (Tipp: Verwenden Sie den Text der Aufgabenstellung :wink:);
 - [ ] Erstellen Sie das **Kontext-Diagramm** für diese Anwendung mit einer kurzen **Erläuterung** des Diagramms;
 - [ ] Erstellen die das **UseCase Diagram** der Anwendung mit einer kurzen **Erläuterung** des Diagramms. Schränken Sie sich auf die Elemente `System`, `Actor`, `UseCase` und die ungerichtete `Assoziation` ein. Das Use Case-Diagramm haben sie im Kurs Requirements-Engieering kennengelernt.
 
