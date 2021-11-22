@@ -56,24 +56,26 @@ c) Erstellen die das **UseCase Diagram** der Anwendung. Schränken Sie sich auf 
 
 ### Resultate und Termine
 Resultate: 
-- [ ] Laden sie die **Beschreibung** und die **Diagramme** in das Github-Repo der Einzelarbeit. Das Diagram können Sie von Hand-Skizzieren und als Foto hochladen oder einen Editor Ihrer Wahl benuzten (zB draw.io).
-- [ ] **Erläutern** sie das Diagramm möglichst knapp.
+- [ ] Laden sie die **Beschreibung** und die **Diagramme** in Ihr Github-Repo der Einzelarbeit. Das Diagram können Sie von Hand-Skizzieren und als Foto hochladen oder einen Editor Ihrer Wahl benuzten (zB diagrams.net).
+- [ ] **Erläutern** sie das Diagramm mit knappen Worten.
+- [ ] Halten Sie sich Bereit, Ihre Resultate in einer 3' Präsentation vorzustellen. :o:
 
-Unterstützung:
-- Nutzen von diagram.io für Diagramme: siehe Kurzanleitung :o:;
-- Beispiel-Resultat Use-Case Diagramm  :o:;
+### Termin
+:date: > 4d vor dem nächsten Unterricht;
 
-Präsentation 5' am `Termin`;
-
-### Kontext-Diagramm
-:o:
 
 ---
-## Kontext-Diagramm: Gruppe
-:o:
+## Gruppenarbeit
+
+1. Wählen Sie eine Anwendung aus für Ihre Gruppe;
+2. 
+
 ### Vorbereitung
 :o:
 ### Aufgabe
-:o:
+a) Erstellen Sie kurze Beschreibung für ihre gewählte Anwendung;
+b) Erstellen Sie das **Kontext-Diagramm** für diese Anwendung;
+c) Erstellen die das **UseCase Diagram** der Anwendung. Schränken Sie sich auf die Elemente `System`, `Actor`, `UseCase` und die ungerichtete `Assoziation` ein. Das Use Case-Diagramm haben sie im Kurs Requirements-Engieering kennengelernt.
+
 ### Resultate und Termine
 :o:
