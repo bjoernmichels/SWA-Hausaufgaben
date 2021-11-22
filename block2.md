@@ -34,7 +34,7 @@ Summary:
 ### Resultate und Termine
 - [ ] Dokumentieren Sie die Resultate in Ihrem **Github-Repo der Einzelarbeit**. Das Diagramm können Sie von Hand-Skizzieren und als Foto hochladen oder einen Editor Ihrer Wahl benuzten (zB diagrams.net);
 - [ ] Halten Sie sich bereit, Ihre Resultat vorzustellen (<3'); :o:
-- [ ] :date: **2.9.2022** (sodass der Dozent Feedback geben kann)
+- [ ] :date: **2.3.2022** (sodass der Dozent Feedback geben kann)
 
 ---
 ## Gruppenarbeit
@@ -45,4 +45,4 @@ Summary:
 ### Resultate und Termine
 - [ ] Dokumentieren Sie die Resultate im **Github-Repo der Gruppe**. Diagramme können Sie von Hand-Skizzieren und als Foto hochladen oder einen Editor Ihrer Wahl benuzten (zB diagrams.net);
 - [ ] Halten Sie sich bereit, Ihre Resultate in einer <3' vorzustellen; :o:
-- [ ] :date: **12.1.2022** (sodass der Dozent Feedback geben kann).
+- [ ] :date: **2.3.2022** (sodass der Dozent Feedback geben kann).
