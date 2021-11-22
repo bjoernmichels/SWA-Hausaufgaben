@@ -36,10 +36,11 @@ Summary:
 
 ---
 ## Vorbereitung
-- [ ] Ertellen eines GibHub-Accounts für den Kurs oder benutzen Sie einen Bestehenden;
-- [ ] Erstellen Sie ein Repository für die Resultate Ihrer Hausaufgaben; 
-- [ ] \(Gruppe) Bilden Sie eine 3er-Gruppe und max eine 2er-Gruppe in Ihrer Klasse;
+- [ ] Ertellen eines GibHub-Accounts für den Kurs oder benutzen Sie Ihren eigenen;
+- [ ] Erstellen Sie ein Repository für die Resultate Ihrer Hausaufgaben der Einzelarbeit; 
+- [ ] \(Gruppe) Bilden Sie eine 3er-Gruppen und max eine 2er-Gruppe in Ihrer Klasse;
 - [ ] \(Gruppe) Ertellen sie für Ihre Gruppe ein gemeinsames Repositories für die Resultate Ihrer Gruppenarbeiten;
+- [ ] \(Gruppe) Informieren Sie den Dozent über die Gruppen und geben Sie Zugriff auf die Repositories;
 <!-- Was fehlt hier noch?--> 
 
 ---
