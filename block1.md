@@ -34,13 +34,10 @@ Summary:
 - Kontext- & Use-Case-Diagramm der Gruppen-Anwendung (Gruppenarbeit);
 - Resultate auf GitHub;
 
----
 ## Vorbereitung
 - [ ] Ertellen eines GibHub-Accounts für den Kurs oder benutzen Sie Ihren eigenen;
 - [ ] Erstellen Sie ein Repository für die Resultate Ihrer Hausaufgaben der Einzelarbeit; 
 - [ ] \(Gruppe) Bilden Sie eine 3er-Gruppen und max eine 2er-Gruppe in Ihrer Klasse;
-- [ ] \(Gruppe) Ertellen sie für Ihre Gruppe ein gemeinsames Repositories für die Resultate Ihrer Gruppenarbeiten;
-- [ ] \(Gruppe) Informieren Sie den Dozent über die Gruppen und geben Sie Zugriff auf die Repositories;
 <!-- Was fehlt hier noch?--> 
 
 ---
@@ -50,32 +47,28 @@ Summary:
 Sie haben schon selber Software entwickelt. zB in den Kursen Web-Technologien oder Programmierung. Suchen sie sich eines dieser Projekte aus für diese Aufgabe aus.
 
 ### Aufgabe
-a) Erstellen Sie kurze Beschreibung für ihre gewählte Anwendung;
-b) Erstellen Sie das **Kontext-Diagramm** für diese Anwendung;
-c) Erstellen die das **UseCase Diagram** der Anwendung. Schränken Sie sich auf die Elemente `System`, `Actor`, `UseCase` und die ungerichtete `Assoziation` ein. Das Use Case-Diagramm haben sie im Kurs Requirements-Engieering kennengelernt.
+- [ ] Erstellen Sie kurze **Beschreibung** für ihre gewählte Anwendung;
+- [ ] Erstellen Sie das **Kontext-Diagramm** für diese Anwendung mit einer kurzen **Erläuterung** des Diagramms;
+- [ ] Erstellen die das **UseCase Diagram** der Anwendung mit einer kurzen **Erläuterung** des Diagramms. Schränken Sie sich auf die Elemente `System`, `Actor`, `UseCase` und die ungerichtete `Assoziation` ein. Das Use Case-Diagramm haben sie im Kurs Requirements-Engieering kennengelernt.
 
 ### Resultate und Termine
-Resultate: 
-- [ ] Laden sie die **Beschreibung** und die **Diagramme** in Ihr Github-Repo der Einzelarbeit. Das Diagram können Sie von Hand-Skizzieren und als Foto hochladen oder einen Editor Ihrer Wahl benuzten (zB diagrams.net).
-- [ ] **Erläutern** sie das Diagramm mit knappen Worten.
-- [ ] Halten Sie sich Bereit, Ihre Resultate in einer 3' Präsentation vorzustellen. :o:
-
-### Termin
-:date: > 4d vor dem nächsten Unterricht;
-
+- [ ] Dokumentieren Sie die Resultate in Ihrem **Github-Repo der Einzelarbeit**. Diagramme können Sie von Hand-Skizzieren und als Foto hochladen oder einen Editor Ihrer Wahl benuzten (zB diagrams.net);
+- [ ] Halten Sie sich bereit, Ihre Resultate in einer <3' vorzustellen; :o:
+- [ ] :date: > 4d vor dem nächsten Unterricht sodass der Dozent Feedback geben kann.
 
 ---
 ## Gruppenarbeit
 
-1. Wählen Sie eine Anwendung aus für Ihre Gruppe;
-2. 
+- [ ] Ertellen sie für Ihre Gruppe ein gemeinsames Repositories für die Resultate Ihrer Gruppenarbeiten;
+- [ ] Informieren Sie den Dozent über die Tln Ihrer Gruppe und geben Sie Zugriff auf dessen Repository;
+- [ ] Wählen Sie eine Anwendung für Ihre Gruppenarbeit aus;
 
-### Vorbereitung
-:o:
 ### Aufgabe
-a) Erstellen Sie kurze Beschreibung für ihre gewählte Anwendung;
-b) Erstellen Sie das **Kontext-Diagramm** für diese Anwendung;
-c) Erstellen die das **UseCase Diagram** der Anwendung. Schränken Sie sich auf die Elemente `System`, `Actor`, `UseCase` und die ungerichtete `Assoziation` ein. Das Use Case-Diagramm haben sie im Kurs Requirements-Engieering kennengelernt.
+- [ ] Erstellen Sie kurze Beschreibung für ihre gewählte Anwendung;
+- [ ] Erstellen Sie das **Kontext-Diagramm** für diese Anwendung mit einer kurzen **Erläuterung** des Diagramms;
+- [ ] Erstellen die das **UseCase Diagram** der Anwendung mit einer kurzen **Erläuterung** des Diagramms. Schränken Sie sich auf die Elemente `System`, `Actor`, `UseCase` und die ungerichtete `Assoziation` ein. Das Use Case-Diagramm haben sie im Kurs Requirements-Engieering kennengelernt.
 
 ### Resultate und Termine
-:o:
+- [ ] Dokumentieren Sie die Resultate im **Github-Repo der Gruppe**. Diagramme können Sie von Hand-Skizzieren und als Foto hochladen oder einen Editor Ihrer Wahl benuzten (zB diagrams.net);
+- [ ] Halten Sie sich bereit, Ihre Resultate in einer <3' vorzustellen; :o:
+- [ ] :date: > 4d vor dem nächsten Unterricht sodass der Dozent Feedback geben kann.
