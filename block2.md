@@ -37,7 +37,7 @@ Summary:
 - [ ] :date: **2.3.2022** (sodass der Dozent Feedback geben kann)
 
 ---
-## Eigene Anwendung (Einzelarbeit)
+## Einlesen (Einzelarbeit)
 - [ ] Lesen sie sich in die Anwendung :o: (TipToi / Swiss-Covid-App) als Vorbereitung für den nächsten Unterricht ein. Folgende Quellen können hilfreich sein: :o:
 
 ---
