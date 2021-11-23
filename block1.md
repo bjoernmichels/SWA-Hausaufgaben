@@ -1,7 +1,7 @@
 # Hausaufgaben Block 1
 
 Summary:
-- ☑️Kontext- & Use-Case-Diagramm einer selbstgeschriebenen Applikation (Einzelarbeit);
+☑️ Kontext- & Use-Case-Diagramm einer selbstgeschriebenen Applikation (Einzelarbeit);
 - Kontext- & Use-Case-Diagramm der Gruppen-Anwendung (Gruppenarbeit);
 - Resultate auf GitHub;
 
