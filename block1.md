@@ -1,9 +1,9 @@
 # Hausaufgaben Block 1
 
-Summary:
-☑️ Kontext- & Use-Case-Diagramm einer selbstgeschriebenen Applikation (Einzelarbeit);
-- Kontext- & Use-Case-Diagramm der Gruppen-Anwendung (Gruppenarbeit);
-- Resultate auf GitHub;
+Summary:<br>
+:point_right: Kontext- & Use-Case-Diagramm einer selbstgeschriebenen Applikation (Einzelarbeit);
+<br>:point_right: Kontext- & Use-Case-Diagramm der Gruppen-Anwendung (Gruppenarbeit);
+<br>:point_right: Resultate auf GitHub;
 
 ## Vorbereitung
 - [ ] Ertellen eines GibHub-Accounts für den Kurs oder benutzen Sie Ihren eigenen;
