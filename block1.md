@@ -41,5 +41,5 @@ Sie haben schon selber Software entwickelt. zB in den Kursen Web-Technologien od
 
 ### Resultate und Termine
 - [ ] Dokumentieren Sie die Resultate im **Github-Repo der Gruppe**. Diagramme können Sie von Hand-Skizzieren und als Foto hochladen oder einen Editor Ihrer Wahl benuzten (zB diagrams.net);
-- [ ] Halten Sie sich bereit, Ihre Resultate in einer <3' vorzustellen; :o:
+- [ ] Halten Sie sich bereit, Ihre Resultate der Klasse vorzustellenin (<3');
 - [ ] :date: **12.1.2022** (sodass der Dozent Feedback geben kann).
