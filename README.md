@@ -5,11 +5,11 @@ Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
   - UseCase & Kontext für eingene- & Gruppen-Applikation;
   - Einlesen & Fragen zu TipToi;
   - 1/4 Podcast hören und Vorstellen;
-- Hausaufgaben [Block 2](/block2.md): Was/Warum SWA? & TipToi; 
+- [Hausaufgaben Block 2](/block2.md): Was/Warum SWA? & TipToi; 
   - Verteilungs-Diagramm für eingene- & Gruppen-Applikation;
   - Einlesen & Fragen zu Argus;
   - 2/4 Podcast hören und Vorstellen;
-- Hausaufgaben [Block 3](/block3.md): Qualität & NewsMonitoring;
+- [Hausaufgaben Block 3](/block3.md): Qualität & NewsMonitoring;
   - Einlesen & Fragen zu Covid-App;
   - 3/4 Podcast hören und Vorstellen;
 - Hausaufgaben Block 4: Architecture Styles & CovidApp;
