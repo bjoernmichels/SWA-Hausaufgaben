@@ -16,3 +16,4 @@ Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
   - 4/4 Podcast hören und Vorstellen;
 - Hausaufgaben Block 5: keine (selbständige Prüfungsvorbereitung)
 - Kursblock 6 --> End of course :partying_face:
+hhh
