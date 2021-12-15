@@ -3,7 +3,7 @@ Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
 
 - [Hausaufgaben Block 1](/block1.md): Was ist Software?
   - Einzelarbeit: UseCase & Kontext für eigene Software. Termin: Block2-1w
-  - Einzelarbeit: Einlesen NewsMonotoring & Fragen beantworten. Termin: Block2
+  - Einzelarbeit: Einlesen NewsMonitoring & Fragen beantworten. Termin: Block2
   - Gruppenarbeiten:
     - Gruppe TipToi: Architekturdokumentation (Block3-1w) und Präsentation (Block3)
     - Gruppe Covid Cert App: Architekturdokumentation (Block4-1w) und Präsentation (Block4)
