@@ -20,7 +20,6 @@ Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
 - Kursblock 6 
   - End of course :partying_face:
 -->
-:school:
 
 | :spiral_calendar: Termin|Einzelarbeit|Gruppe TipToi|Gruppe Covid Cert-App|Gruppe 3|
 |-|-|-|-|-|
