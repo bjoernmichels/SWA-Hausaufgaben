@@ -23,13 +23,13 @@ Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
 
 | :spiral_calendar: Termin|Einzelarbeit|Gruppe TipToi|Gruppe Covid Cert-App|Gruppe 3|
 |-|-|-|-|-|
-|Block 1<br>Datum|||||
-|1 Woche vor Block 2|**UseCase-Diagramm** & **Kontext-Kontext-Diagramm** für eine **eigene Software**||||
-|Block 2<br>Datum|**Einlesen** **NewsMonitoring** & **Fragen** beantworten||||
-|1 Woche vor Block 3||**Architekturdokumentation**|||
-|Block 3<br>Datum||**Präsentation**|||
-|1 Woche vor Block 4|||**Architekturdokumentation**||
-|Block 4<br>Datum|||**Präsentation**||
-|1 Woche vor Block 5||||**Architekturdokumentation**|
-|Block 5<br>Datum||||**Präsentation**|
-|Block 6<br>Datum|
+|Block 1<br>22.12.2021|||||
+|1 Woche vor Block 2<br>12.1.2022|**UseCase-Diagramm** & **Kontext-Kontext-Diagramm** für eine **eigene Software**||||
+|Block 2<br>19.1.2022|**Einlesen** **NewsMonitoring** & **Fragen** beantworten||||
+|1 Woche vor Block 3<br>2.3.2022||**Architekturdokumentation**|||
+|Block 3<br>9.3.2022||**Präsentation**|||
+|1 Woche vor Block 4<br>9.3.2022|||**Architekturdokumentation**||
+|Block 4<br>16.3.2022|||**Präsentation**||
+|1 Woche vor Block 5<br>16.3.2022||||**Architekturdokumentation**|
+|Block 5<br>13.3.2022||||**Präsentation**|
+|Block 6<br>30.3.2022|
