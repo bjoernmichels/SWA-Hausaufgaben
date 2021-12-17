@@ -1,6 +1,6 @@
 # Kurs Softwarearchitektur: Hausaufgaben
 Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
-
+<!--
 - [Hausaufgaben Block 1](/block1.md): *Was ist Software?*
   - Einzelarbeit: **UseCase-Diagramm** & **Kontext-Kontext-Diagramm** für eine **eigene Software**. :calendar: Termin: (Block 2 - 1 Woche)
   - Einzelarbeit: **Einlesen** **NewsMonitoring** & **Fragen** beantworten. :calendar: Termin: Block2
@@ -18,4 +18,18 @@ Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
 - Hausaufgaben Block 5: *Fallstudie* 
   - (selbständige Prüfungsvorbereitung)
 - Kursblock 6 
-  - --> End of course :partying_face:
+  - End of course :partying_face:
+-->
+
+| :spiral_calendar: Termin|Einzelarbeit|Gruppe TipToi|Gruppe Covid Cert-App|Gruppe 3|
+|-|-|-|-|-|
+|Block 1<br>Datum|||||
+|1 Woche vor Block 2|**UseCase-Diagramm** & **Kontext-Kontext-Diagramm** für eine **eigene Software**||||
+|Block 2<br>Datum|**Einlesen** **NewsMonitoring** & **Fragen** beantworten||||
+|1 Woche vor Block 3||**Architekturdokumentation**|||
+|Block 3<br>Datum||**Präsentation**|||
+|1 Woche vor Block 4|||**Architekturdokumentation**||
+|Block 4<br>Datum|||**Präsentation**||
+|1 Woche vor Block 5||||**Architekturdokumentation**|
+|Block 5<br>Datum||||**Präsentation**|
+|Block 6<br>Datum|
