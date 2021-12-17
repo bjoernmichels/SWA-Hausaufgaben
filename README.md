@@ -23,7 +23,7 @@ Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
 
 | :spiral_calendar: Termin|Einzelarbeit|Gruppe TipToi|Gruppe Covid Cert-App|Gruppe 3|
 |-|-|-|-|-|
-|Block 1<br>22.12.2021|||||
+|[Block 1<br>22.12.2021](/block1.md)|||||
 |1 Woche vor Block 2<br>12.1.2022|**UseCase-Diagramm** & **Kontext-Diagramm** für eine **eigene Software**||||
 |Block 2<br>19.1.2022|**Einlesen** **NewsMonitoring** & **Fragen** beantworten||||
 |1 Woche vor Block 3<br>2.3.2022|**Verteilungs-Diagramm** für **eigene Software**|**Architektur-dokumentation**|||
