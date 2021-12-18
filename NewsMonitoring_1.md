@@ -10,6 +10,6 @@
 Für den Kurs nehmen wir eine fiktive Firma
 
 
-## Fragen zu beantworten als Vorbereitung für den nächsten Kurstag
+## Fragen zur beantworten als Vorbereitung für den nächsten Kurstag
 - [ ] Für wen / welche Firmen könnte ein News-Monitoring System von nutzen sein?
 
