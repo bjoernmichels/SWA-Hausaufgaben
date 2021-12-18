@@ -34,11 +34,12 @@ Für den Beginn unserer Geschäftstätigkeit konzentrieren wir uns auf Printmedi
 ## Randbedingung
 - Die Software wird auf einer eigenen Infrastruktur betrieben;
 
-## Bestehende Anbieter im Markt
+## Bestehende Anbieter im Markt und weitere Quellen
 - Argus: https://www.argusdatainsights.ch/de/
 - Factiva: https://www.dowjones.com/professional/factiva/
 - Silobreaker: https://www.silobreaker.com/
 - Metlwater: https://www.meltwater.com/de
+- Nachrichtenformat von sda: https://www.keystone-sda.ch/documents/20143/0/NewsML-Guidelines_1.2b.pdf/648d1a23-f088-5405-804a-8a38be233ca8?t=1582905020719
 
 ## Fragen zur Beantwortung als Vorbereitung für den nächsten Kurstag
 - [ ] Was sind Nachrichtenagenturen?
