@@ -15,7 +15,10 @@ Wir sind eine kleine Firma, welche im Schweizer Markt im Bereich News-Monitoring
 
 Für den Beginn unserer Geschäftstätigkeit konzentrieren wir uns auf Printmedien.
 
-## Funktinale Anforderungen:
+## Funktionale Anforderungen:
+
+Wir möchten eine Software mit dem Namen **NewsMon** erstellen.
+
 - Der Analyst kann die Nachrichten ausgewählter Agenturen triagieren;
 - Der Analyst kann sein Sprachpreferenz konfigurieren um zu entscheiden, welche Sprachen im Original und welche in Englischer Übersetzung angezeigt werden;
 - Der Analyst kann Nachrichten dem Kunden zustellen;
@@ -45,9 +48,10 @@ Für den Beginn unserer Geschäftstätigkeit konzentrieren wir uns auf Printmedi
 ## Fragen zur Beantwortung als Vorbereitung für den nächsten Kurstag
 - [ ] Was sind Nachrichtenagenturen?
 - [ ] Was ist AP, AFP, dpa, APA, sda?
-- [ ] Für wen / welche Firmen könnte ein News-Monitoring System von nutzen sein?
+- [ ] Für wen / welche Firmen könnte die Services dieser fiktiven Firma von Nutzen sein?
 - [ ] Welche Elemente sind im Kontext für die Software "NewsMon"? Organisationen, Systeme, Aktoren, Geräte.
 - [ ] Welche UseCases erledigen die Actoren an der Software?
+- [ ] Welche Komponenten könnte das Zielsystem beinhalten?
 
 <!--
 ADR
