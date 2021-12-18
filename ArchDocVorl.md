@@ -1,0 +1,31 @@
+# Architekturdokumentation der Software *NAME*
+
+## Einführung
+<!--
+Diese Vorlage einer Architekturdokumentation ... ist eine vereinfachte und angepasste Version der Vorlage arc42[^1] sowie . 
+-->
+*Kurze Beschreibung der Ziele und Umfeld der Anwendung* 
+
+## Anforderungen
+### Funktionale Anforderungen
+*Use Case- Diagramm + Beschreibung*
+
+### Qualitätsanforderungen
+*Beschreibung der wichtigsten Qualitätsanforderungen zB in Form von Qualitätsszenarien*
+
+### Randbedingungen
+*Anforderungen, Vorgaben, welche das Team beim Design der Software einschränkt* 
+
+## Kontextabgrenzung
+*Kontext-Diagramm und Beschreibung.*
+
+## Verteilungssicht
+*Verteilungsdiagramm + Beschreibung*
+
+## Glossar
+
+
+
+<!-- Dieser Abschnitt ist auskommentiert
+[^1]: www.arc42.de
+-->
