@@ -2,7 +2,7 @@
 
 # Hausaufgaben Block 2
 
-<!--
+
 2. SWA
     ◦ Lesen: TipToi || CovidApp
     ◦ Eigene: DeplDiagr
@@ -19,7 +19,7 @@
 TBD:
 ◦ GitHub collab
 ◦ Podcast & vorstellen
--->
+
 
 Summary:
 - Verteilungs-Diagramm ihrer selbstgeschriebenen Applikation (Einzelarbeit);
