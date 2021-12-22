@@ -1,3 +1,5 @@
+<!--
+
 # Hausaufgaben Block 2
 
 <!--
@@ -51,3 +53,4 @@ Summary:
 - [ ] Dokumentieren Sie die Resultate im **Github-Repo der Gruppe**. Diagramme können Sie von Hand-Skizzieren und als Foto hochladen oder einen Editor Ihrer Wahl benuzten (zB diagrams.net);
 - [ ] Halten Sie sich bereit, Ihre Resultate in einer <3' vorzustellen; :o:
 - [ ] :date: **2.3.2022** (sodass der Dozent Feedback geben kann).
+-->
