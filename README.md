@@ -1,7 +1,7 @@
 # Kurs Softwarearchitektur: Hausaufgaben
 Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
 
-| :spiral_calendar: Termin|Einzelarbeit|Gruppe TipToi|Gruppe Covid Cert-App|Gruppe 3|
+| :spiral_calendar: Termin|Einzelarbeit|Gruppe TipToi|Gruppe Covid Cert-App|Gruppe Minecraft|
 |-|-|-|-|-|
 |Block 1<br>22.12.2021|||||
 |1 Woche vor Block 2<br>12.1.2022|[**UseCase-Diagramm** & **Kontext-Diagramm** für eine **eigene Software**](/bl1-1.md)||||
