@@ -8,6 +8,7 @@ Aufwand: 2 [Pomodoros](https://de.wikipedia.org/wiki/Pomodoro-Technik).
 - [ ] Wer sind die Benutzer von TipToi?
 - [ ] Aus welchen Anwendungen besteht TipToi?
 - [ ] Welche Anwendungsfälle haben die Anwendungen von TipToi?
+- [ ] Welche Software und Infrastruktur, vermuten Sie, benötigt Ravensburger um TipToi-Spiele zu erstellen? 
 
 Haben Sie in Ihrem Umfeld ein TipToi? Dann probieren sie das Produkt aus.
 
