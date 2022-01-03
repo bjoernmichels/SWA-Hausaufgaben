@@ -11,5 +11,5 @@ Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
 |1 Woche vor Block 4<br>9.3.2022|||[**Architektur-Dokumentation**](/Gruppenarbeit.md)||
 |Block 4<br>16.3.2022|**Einlesen** **Covid Cert App** & **Fragen** beantworten||[**Architektur-Präsentation**](/Gruppenarbeit.md)||
 |1 Woche vor Block 5<br>16.3.2022||||[**Architektur-Dokumentation**](/Gruppenarbeit.md)|
-|Block 5<br>13.3.2022|**Einlesen Anwendung Minecraft** & **Fragen** beantworten|||[**Architektur-Präsentation**](/Gruppenarbeit.md)|
+|Block 5<br>13.3.2022|**Einlesen Minecraft** & **Fragen** beantworten|||[**Architektur-Präsentation**](/Gruppenarbeit.md)|
 |Block 6<br>30.3.2022|
