@@ -7,7 +7,7 @@ Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
 |1 Woche vor Block 2<br>12.1.2022|[**UseCase-Diagramm** & **Kontext-Diagramm** für eine **eigene Software**](/bl1-1.md)||||
 |Block 2<br>19.1.2022|[**Einlesen** **NewsMonitoring** & **Fragen** beantworten](NewsMonitoring_1.md)||||
 |1 Woche vor Block 3<br>2.3.2022|[**Verteilungs-Diagramm** für **eigene Software**](bl2-2.md)|[**Architektur-Dokumentation**](/Gruppenarbeit.md)|||
-|Block 3<br>9.3.2022|**Fragen zu TipToi** beantworten|[**Architektur-Präsentation**](/Gruppenarbeit.md)|||
+|Block 3<br>9.3.2022|[**Fragen zu TipToi** beantworten](Tiptoi.md)|[**Architektur-Präsentation**](/Gruppenarbeit.md)|||
 |1 Woche vor Block 4<br>9.3.2022|||[**Architektur-Dokumentation**](/Gruppenarbeit.md)||
 |Block 4<br>16.3.2022|**Fragen zur Covid Cert App** beantworten||[**Architektur-Präsentation**](/Gruppenarbeit.md)||
 |1 Woche vor Block 5<br>16.3.2022||||[**Architektur-Dokumentation**](/Gruppenarbeit.md)|
