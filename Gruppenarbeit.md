@@ -12,8 +12,9 @@ Summary:<br>
 ## Aufgabe
 
 ### Architektur-Dokumentation
-- [ ] Erstellen sie **Architektur-Dokumentation** für Ihre Anwendung. **Beschreibung, Kontext- und Verteilungsdiagramm mit Erläuterung**. Nutzen Sie dafür die Informationen aus den Internetquellen und treffen sie Annahmen wenn Sie zB keine Informationen finden
-- [ ] Formulieren Sie mögliche **Anforderungen**, welche zu dieser Architektur geführt haben
+- [ ] Erstellen sie **Architektur-Dokumentation** für Ihre Anwendung. **Beschreibung/Einleitung, Kontext- und Verteilungsdiagramm jeweils mit Erläuterung**. Nutzen Sie dafür die Informationen aus den Internetquellen und treffen sie Annahmen wenn Sie zB keine Informationen finden
+- [ ] Formulieren Sie in der Architketurdokumentation mögliche **Anforderungen**, welche zu dieser Architektur geführt haben und das **UseCase-Diagramm**.
+- [ ] Ergänzen sie mit einem Kapitel bezüglich der Organisation.
 
 ### Architektur-Präsentation
 - [ ] **Präsentieren** Sie ihre Resultate in geeigneter Form **in der Klasse. Dauer 20‘**. Szenario: Sie sind Softwarehersteller und präsentieren dem Kunden ihre Lösungsarchitektur. Das heisst: Wir stellen uns vor, es gäbe diese Anwendung noch gar nicht. 
