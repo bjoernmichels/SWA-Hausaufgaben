@@ -6,13 +6,13 @@ Summary:<br>
 
 ## Vorbereitung
 - [x] Bilden Sie 3 Gruppen und wählen Sie eine Anwendung aus (Am Schluss vom Unterrichtsblock 2)
-- [ ] Erstellen Sie ein gemeinsames Repository für Ihrer Gruppenarbeit 
+- [ ] Erstellen Sie ein gemeinsames public Repository für Ihrer Gruppenarbeit
 - [ ] Senden Sie dem Dozent den Link zum Repository
 
 ## Aufgabe
 
 ### Architektur-Dokumentation
-- [ ] Erstellen sie **Architektur-Dokumentation** für Ihre Anwendung. **Beschreibung/Einleitung, Kontext- und Verteilungsdiagramm jeweils mit Erläuterung**. Nutzen Sie dafür die Informationen aus den Internetquellen und treffen sie Annahmen wenn Sie zB keine Informationen finden
+- [ ] Erstellen sie **Architektur-Dokumentation** für Ihre Anwendung. **Beschreibung/Einleitung, Kontext- und Verteilungsdiagramm jeweils mit Erläuterung** als Readme.md. <br>Nutzen Sie die Informationen aus den Internetquellen und treffen sie Annahmen wenn Sie zB keine Informationen finden
 - [ ] Formulieren Sie in der Architketurdokumentation mögliche **Anforderungen**, welche zu dieser Architektur geführt haben und das **UseCase-Diagramm**.
 - [ ] Ergänzen sie mit einem Kapitel bezüglich der Organisation.
 
