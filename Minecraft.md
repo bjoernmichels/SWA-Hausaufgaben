@@ -25,3 +25,4 @@ Kennt Ihr Minecraft noch nicht? Probiert es kurz aus.
 - https://youtu.be/xO5L6zoT2GQ "Henrik Kniberg: How we make Minecraft Releases"
 - https://github.com/Mojang
 - https://youtu.be/vXaWOJTCYNg "Testing Minecraft in Minecraft, Henrik Kniberg"
+- https://bugs.mojang.com/secure/BrowseProjects.jspa?selectedCategory=all&selectedProjectType=all Jira der Entwickler.
