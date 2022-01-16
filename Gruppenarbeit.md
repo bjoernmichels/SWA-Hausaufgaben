@@ -15,6 +15,7 @@ Summary:<br>
 - [ ] Erstellen sie **Architektur-Dokumentation** für Ihre Anwendung. **Beschreibung/Einleitung, Kontext- und Verteilungsdiagramm jeweils mit Erläuterung** im Readme.md des Repositories.
 - [ ] Formulieren Sie in der Architketurdokumentation mögliche **Anforderungen**, welche zu dieser Architektur geführt haben und das **UseCase-Diagramm**.
 - [ ] Ergänzen sie die Architekturdokumentation mit einem Kapitel bezüglich der Organisation.
+- [ ] Arbeiten Sie relevanten Feedback in die Dokumentation ein oder reagieren Sie darauf.
 
 Nutzen Sie die Informationen aus den Internetquellen und treffen sie Annahmen wenn Sie keine Informationen finden.
 
