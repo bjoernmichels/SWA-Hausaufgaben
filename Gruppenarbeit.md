@@ -2,8 +2,8 @@
 
 Summary:<br>
 :point_right: Architekturdokumentation auf GitHub der Anwendung Ihrer Gruppe<br>
-:point_right: Architekturpräsentation in der Klasse<br>
-:point-right: Kollaboration mit der "Community" auf GitHub.
+:point_right: Architekturpräsentation in der Klasse<br> 
+:point_right: Kollaboration mit der "Community" auf GitHub.
 
 ## Vorbereitung
 - [x] Bilden Sie 3 Gruppen und wählen Sie eine Anwendung aus (Am Schluss vom Unterrichtsblock 2)
