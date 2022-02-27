@@ -22,6 +22,7 @@ Kennt Ihr Minecraft noch nicht? Probiert es kurz aus.
 - https://education.minecraft.net/de-de/homepage
 - https://github.com/Mojang (https://github.com/Mojang/EducationContent)
 - https://docs.microsoft.com/en-us/minecraft/creator/
+- https://developer.microsoft.com/en-us/games/blog/how-minecraft-realms-moved-compute-storage-from-aws-to-azure/
 - https://youtu.be/xO5L6zoT2GQ "Henrik Kniberg: How we make Minecraft Releases"
 - https://github.com/Mojang
 - https://youtu.be/vXaWOJTCYNg "Testing Minecraft in Minecraft, Henrik Kniberg"
