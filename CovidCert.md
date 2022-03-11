@@ -11,7 +11,7 @@ OutOfScope: EU und der Rest der Welt :wink:
 
 
 ## Fragen für die Einzelarbeit
-Aufwand: 2 [Pomodoros](https://de.wikipedia.org/wiki/Pomodoro-Technik).
+Aufwand: 2 [Pomodori](https://de.wikipedia.org/wiki/Pomodoro-Technik).
 - [ ] Gesamtes "Ökosystem" um das COVID-Zertifikates der Schweiz: Wer sind die Aktoren?
 - [ ] Welche Applikationen gibt es für das COVID-Zertifikat?
 - [ ] Welche Anwendungsfälle haben die Applikationen auf den Smartphones?
