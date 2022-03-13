@@ -20,6 +20,8 @@ Aufwand: 2 [Pomodori](https://de.wikipedia.org/wiki/Pomodoro-Technik).
 ## Quellen
 - Covid Certificate Apps Repositories des BIT: https://github.com/admin-ch/CovidCertificate-App-iOS und https://github.com/admin-ch/CovidCertificate-App-Android
 - Covid Certificate Documents: https://github.com/admin-ch/CovidCertificate-Documents
+- Big Picture, Overview of the whole system and how it interacts with the CovidCode App: https://github.com/admin-ch/CovidCode-UI/wiki/Big-Picture
+- Covid Certificate Release Notes: https://github.com/admin-ch/CovidCertificate-ReleaseNotes
 - Weitere, teilweise relevante Repositories des BIT: https://github.com/admin-ch
 - Digitales COVID-Zertifikat der EU: https://de.wikipedia.org/wiki/Digitales_COVID-Zertifikat_der_EU
 - EU Digital COVID Certificate Gateway: https://github.com/eu-digital-green-certificates/dgc-gateway
