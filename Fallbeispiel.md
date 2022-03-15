@@ -2,7 +2,7 @@
 
 ## Szenario
 
-Die Feusi möchte ein Infoboard-System kaufen (digital signage). Sie (Ihre Klasse) sind der Software-Lösungshersteler **SuperSoft** bei welchem die Feusi vielleicht ihre Lösung kaufen möchte.
+Die Feusi möchte ein Infoboard-System kaufen (digital signage). Sie (Ihre Klasse) sind der Software-Lösungshersteller **SuperSoft** bei welchem die Feusi vielleicht ihre Lösung kaufen möchte.
 
 ## Ihre Aufgabe
 
