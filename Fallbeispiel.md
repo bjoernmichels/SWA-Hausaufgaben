@@ -8,7 +8,7 @@ Die Feusi möchte ein Infoboard-System kaufen (digital signage). Sie (Ihre Klass
 
 Bringen Sie die relevanten Informationen in Erfahrung und erstellen Sie die Inhalte für die **technische Kundenpräsentation** (Architekturpräsentation).
 
-:teacher: Der **Dozent repräsentiert die Kundenvertreter** und kann auf Anfrage verschiedene Rollen annehmen: Projekt-Sponsor (Schulleitung), Sekretariat-Mitarbeiter, SWA-Dozent, noch andere?....
+:teacher: Der **Dozent repräsentiert die Kundenvertreter** und kann auf Anfrage verschiedene Rollen annehmen: Projekt-Sponsor (Schulleitung), Sekretariat-Mitarbeiter, SWA-Dozent, Python-Dozent, noch andere?....
 
 1. **Organisieren Sie sich** als Firma **SuperSoft** zB nach Rollen oder nach zu erstellenden Ergebnissen (Anforderungen,Kontext, UseCases, Verteilungssicht).
 2. Welche Arbeiten und Termine benötigen Sie vom/mit dem Kunden um das Projekt erfolgreich umzusetzen?
