@@ -11,8 +11,8 @@ Bringen Sie die relevanten Informationen in Erfahrung und erstellen Sie die Inha
 :teacher: Der **Dozent repräsentiert die Kundenvertreter** und kann auf Anfrage verschiedene Rollen annehmen: Projekt-Sponsor (Schulleitung), Sekretariat-Mitarbeiter, SWA-Dozent, Python-Dozent, noch andere?....
 
 1. **Organisieren Sie sich** als Firma **SuperSoft** zB nach Rollen oder nach zu erstellenden Ergebnissen (Anforderungen,Kontext, UseCases, Verteilungssicht).
-2. Welche Arbeiten und Termine benötigen Sie vom/mit dem Kunden um das Projekt erfolgreich umzusetzen?
-3. Befragen sie den/die Kundenvertreter nach den von Ihnen benötigten Informationen.
+2. Welche **Arbeiten und Termine** benötigen Sie vom/mit dem Kunden um das Projekt erfolgreich umzusetzen?
+3. **Befragen sie den/die Kundenvertreter** nach den von Ihnen benötigten Informationen.
 
 ## Ergebnis
 
@@ -22,9 +22,9 @@ Bringen Sie die relevanten Informationen in Erfahrung und erstellen Sie die Inha
 
 ## Zetlicher Ablauf
 
-- Stakeholder-Gespräche & Erstellung der Inhalte/Präsentation: 85’
-- Präsentation der Resultate dem Kunden: 20’
-- Diskussion / Besprechung: 15’
+- **Stakeholder-Gespräche** & **Erstellung der Inhalte**/Präsentation: **85’**
+- **Präsentation** der Resultate dem Kunden: **20’**
+- **Diskussion** / Besprechung: **15’**
 
 ## Infos
 Infoboard einer anderen Institution:
