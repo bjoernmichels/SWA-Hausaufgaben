@@ -19,6 +19,7 @@ Kennt Ihr Minecraft noch nicht? Probiert es kurz aus.
 ## Quellen
 - https://de.wikipedia.org/wiki/Minecraft
 - https://www.minecraft.net/de-de
+- https://www.minecraft.net/en-us/mojang-careers
 - https://education.minecraft.net/de-de/homepage
 - https://github.com/Mojang (https://github.com/Mojang/EducationContent)
 - https://docs.microsoft.com/en-us/minecraft/creator/
