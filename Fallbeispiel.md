@@ -22,9 +22,9 @@ Bringen Sie die relevanten Informationen in Erfahrung und erstellen Sie die Inha
 
 ## Zetlicher Ablauf
 
-- **Stakeholder-Gespräche** & **Erstellung der Inhalte**/Präsentation: **85’**
+- **Stakeholder-Gespräche** & **Erstellung der Inhalte**/Präsentation: **75’** :arrow_right: **bis 19:30**
 - **Präsentation** der Resultate dem Kunden: **20’**
-- **Diskussion** / Besprechung: **15’**
+- **Diskussion** / Besprechung: **25’**
 
 ## Infos
 Infoboard einer anderen Institution:
