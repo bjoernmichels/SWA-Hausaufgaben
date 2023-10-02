@@ -9,6 +9,7 @@ SOLL: Die Anwendungen auf den Endgeräten für die Bevölkerung. <br>
 Optional: Weitere Anwendungen. <br>
 OutOfScope: EU und der Rest der Welt :wink:
 
+<!--
 
 ## Fragen für die Einzelarbeit
 Aufwand: 2 [Pomodori](https://de.wikipedia.org/wiki/Pomodoro-Technik).
@@ -16,6 +17,8 @@ Aufwand: 2 [Pomodori](https://de.wikipedia.org/wiki/Pomodoro-Technik).
 - [ ] Welche Applikationen gibt es für das COVID-Zertifikat?
 - [ ] Welche Anwendungsfälle haben die Applikationen auf den Smartphones?
 - [ ] Welche Software, Infrastruktur, Organisationen, finden/vermuten Sie zur Erstellung und Weiterentwicklung der Anwendungen? 
+
+-->
 
 ## Quellen
 - Covid Certificate Apps Repositories des BIT: https://github.com/admin-ch/CovidCertificate-App-iOS und https://github.com/admin-ch/CovidCertificate-App-Android
