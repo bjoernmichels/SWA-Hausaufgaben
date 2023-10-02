@@ -1,9 +1,8 @@
 **Architekturdokumentation der Software *NAME***
+Die Architekturdokumentation ist angelehnt an arc42[^1]
 
-# Einführung
-<!--
-Diese Vorlage einer Architekturdokumentation ... ist eine vereinfachte und angepasste Version der Vorlage arc42[^1] sowie . 
--->
+# Einführung und Ziele
+
 *Kurze Beschreibung der Ziele und Umfeld der Anwendung* 
 
 
@@ -26,8 +25,7 @@ Diese Vorlage einer Architekturdokumentation ... ist eine vereinfachte und angep
 
 # Glossar
 
+*Bei Bedarf. Denken sie ein an Zielpublikum, welches sich mit der Materie nicht im Detail auskennt.*
 
 
-<!-- Dieser Abschnitt ist auskommentiert
-[^1]: www.arc42.de
--->
+[^1]: [www.arc42.de](https://www.arc42.de/overview/)https://www.arc42.de/overview/
