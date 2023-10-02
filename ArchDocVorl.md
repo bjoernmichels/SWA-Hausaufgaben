@@ -1,5 +1,5 @@
 **Architekturdokumentation der Software *NAME***
-Die Architekturdokumentation ist angelehnt an arc42[^1]
+Die Architekturdokumentation ist angelehnt an das arc42-Template[^1]
 
 # Einführung und Ziele
 
@@ -28,4 +28,4 @@ Die Architekturdokumentation ist angelehnt an arc42[^1]
 *Bei Bedarf. Denken sie ein an Zielpublikum, welches sich mit der Materie nicht im Detail auskennt.*
 
 
-[^1]: [arc42](https://www.arc42.de/overview/)
+[^1]: [arc42-Template](https://www.arc42.de/overview/)
