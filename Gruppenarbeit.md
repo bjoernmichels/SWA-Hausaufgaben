@@ -20,7 +20,7 @@ Summary:<br>
 Nutzen Sie die Informationen aus den Internetquellen und treffen sie Annahmen wenn Sie keine Informationen finden.
 
 ### Architektur-Präsentation
-- [ ] **Präsentieren** Sie ihre Resultate in geeigneter Form **in der Klasse. Dauer 20‘**. Szenario: Sie sind Softwarehersteller und präsentieren dem Kunden ihre Lösungsarchitektur. Das heisst: Wir stellen uns vor, es gäbe diese Anwendung noch gar nicht. 
+- [ ] **Präsentieren** Sie ihre Resultate in geeigneter Form **in der Klasse. Dauer 20‘**. Szenario: Sie sind Softwarehersteller und präsentieren dem Kunden ihre Lösungsarchitektur. Das heisst: Wir stellen uns vor, es gäbe diese Anwendung noch nicht. 
 
 ## Resultate und Termine
 - [ ] Dokumentieren Sie die Resultate im **Github-Repository**. Diagramme können Sie mit www.diagrams.net erstellen oder auch von Hand-Skizzieren und als Foto in das Repository laden;
