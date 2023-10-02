@@ -28,4 +28,4 @@ Die Architekturdokumentation ist angelehnt an arc42[^1]
 *Bei Bedarf. Denken sie ein an Zielpublikum, welches sich mit der Materie nicht im Detail auskennt.*
 
 
-[^1]: [www.arc42.de](https://www.arc42.de/overview/)https://www.arc42.de/overview/
+[^1]: [arc42](https://www.arc42.de/overview/)
