@@ -7,12 +7,14 @@ _Wir möchten ein Sandbox-Computerspiel mit dem Namen **Minecraft** entwickeln._
 
 Abgrenzung: Ohne Minecraft Dungeons, ohne Minecraft Earth.
 
+<!--
 ## Fragen für die Einzelarbeit
 Aufwand: 2 [Pomodori](https://de.wikipedia.org/wiki/Pomodoro-Technik).
 - [ ] Welchen Applikationen gibt es im dem "Ökosystem" Minecraft
 - [ ] Wer sind die Aktoren zu den Applikationen?
 - [ ] Welche Anwendungsfälle haben dies Applikationen?
 - [ ] Welche Software, Infrastruktur, Organisationen, finden/vermuten Sie zur Erstellung und Weiterentwicklung der Anwendungen? 
+-->
 
 Kennt Ihr Minecraft noch nicht? Probiert es kurz aus.
 
