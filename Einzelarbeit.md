@@ -19,6 +19,6 @@
 - [ ] Erstellen Sie das **Verteilungs-Diagramm** Ihrer Anwendung mit einer kurzen **Erläuterung** des Diagramms
 
 ## Resultate und Termine
-- [ ] Dokumentieren Sie die Resultate in Ihrem **Github-Repo der Einzelarbeit**. Diagramme können Sie mit [diagrams.net resp. draw.io](https://www.drawio.com/) erstellen oder auch von Hand-Skizzieren und als Foto in das Repository laden;
+- [ ] Dokumentieren Sie die Resultate in Ihrem **Github-Repo der Einzelarbeit**. Diagramme können Sie mit [draw.io](https://www.drawio.com/) erstellen oder auch von Hand-Skizzieren und als Foto in das Repository laden;
 - [ ] Als Vorlage für die Architekturbeschreibung können sie folgende [Vorlage](ArchDocVorl.md) verwenden.
 - [ ] :date: Termin: Siehe [Hausaufgaben-Übersicht](README.md).
