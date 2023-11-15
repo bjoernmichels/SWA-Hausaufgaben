@@ -12,9 +12,10 @@
 - [ ] Wählen sie eine Anwendung die sie selber entwickelt haben (zB in diesem Lehrgang) oder eine Anwendung aus Ihrem Arbeitsumfeld.
 
 ## Aufgabe
+- [ ] Bearbeitden Sie das README.md um die folgenden Inhalte zu Dokumentiern:
 - [ ] Erstellen Sie eine kurze **Beschreibung** für ihre gewählte Anwendung;
 - [ ] Erstellen Sie das **Kontext-Diagramm** für diese Anwendung mit einer kurzen **Erläuterung** des Diagramms;
-- [ ] Erstellen die das **UseCase Diagramm** der Anwendung mit einer kurzen **Erläuterung** des Diagramms. Schränken Sie sich auf die Elemente `System`, `Actor`, `UseCase` und die ungerichtete `Assoziation` ein. Das Use Case-Diagramm haben sie im Kurs Requirements-Engieering kennengelernt.
+- [ ] Erstellen die das **UseCase Diagramm** der Anwendung mit einer kurzen **Erläuterung** des Diagramms. Beschränken Sie sich auf die Elemente `System`, `Actor`, `UseCase` sowie ungerichtete `Assoziation`. Das Use Case-Diagramm haben sie im Kurs Requirements-Engieering kennengelernt.
 - [ ] Erstellen Sie das **Verteilungs-Diagramm** Ihrer Anwendung mit einer kurzen **Erläuterung** des Diagramms
 
 ## Resultate und Termine
