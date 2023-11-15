@@ -3,7 +3,7 @@
 ## Summary:<br>
 :point_right: **Kontext**- & Use-Case & Verteilungs-Diagramm einer selbstgeschriebenen Applikation oder einer Anwendung aus Ihrem Arbeitsumfeld. 
 <br>:point_right: Resultate auf GitHub;
-<br>:warning: Beachten Sie den Datenschutz, public_repositories entsprechen einer Publikation im Internet.
+<br>:warning: Beachten Sie den Datenschutz, public_repositories entsprechen einer Publikation im Internet (was wür geschäfliche Anwendungen problematisch sein könnte).
 
 ## Vorbereitung
 - [ ] Ertellen eines GibHub-Accounts für den Kurs oder benutzen Sie Ihren bestehenden Account;
