@@ -1,9 +1,9 @@
 # Hausaufgabe: Kontext- & UseCase- & Deployment-Diagramm für eine eigene Software
 
 ## Summary:<br>
-:point_right: **Kontext**- & Use-Case & Verteilungs-Diagramm einer selbstgeschriebenen Applikation oder einer Anwendung aus Ihrem Arbeitsumfeld. 
-<br>:point_right: Resultate auf GitHub;
-<br>:warning: Beachten Sie den Datenschutz, public_repositories entsprechen einer Publikation im Internet (was wür geschäfliche Anwendungen problematisch sein könnte).
+:point_right: **Kontext**- & **Use-Case** & **Verteilungs-Diagramm** einer selbstgeschriebenen Applikation oder einer Anwendung aus Ihrem Arbeitsumfeld. 
+<br>:point_right: Resultate auf **GitHub**;
+<br>:warning: Beachten Sie den **Datenschutz**, public_repositories entsprechen einer Publikation im Internet (was wür geschäfliche Anwendungen problematisch sein könnte).
 
 ## Vorbereitung
 - [ ] Erstellen eines GibHub-Accounts für den Kurs oder benutzen Sie Ihren bestehenden Account;
