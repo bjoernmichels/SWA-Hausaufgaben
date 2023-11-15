@@ -6,7 +6,7 @@
 <br>:warning: Beachten Sie den Datenschutz, public_repositories entsprechen einer Publikation im Internet (was wür geschäfliche Anwendungen problematisch sein könnte).
 
 ## Vorbereitung
-- [ ] Ertellen eines GibHub-Accounts für den Kurs oder benutzen Sie Ihren bestehenden Account;
+- [ ] Erstellen eines GibHub-Accounts für den Kurs oder benutzen Sie Ihren bestehenden Account;
 - [ ] Erstellen Sie ein Repository für die Resultate Ihrer Hausaufgaben der Einzelarbeit; 
 - [ ] Senden Sie dem Dozent den Link / die Berechtigung für das Repository;
 - [ ] Wählen sie eine Anwendung die sie selber entwickelt haben (zB in diesem Lehrgang) oder eine Anwendung aus Ihrem Arbeitsumfeld.
