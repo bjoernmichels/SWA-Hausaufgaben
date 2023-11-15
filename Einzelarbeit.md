@@ -22,4 +22,5 @@
 - [ ] Dokumentieren Sie die Resultate in Ihrem **Github-Repo der Einzelarbeit**. Diagramme können Sie mit [draw.io](https://www.drawio.com/) erstellen oder auch von Hand-Skizzieren und als Foto in das Repository laden;
 - [ ] Als Vorlage für die Architekturbeschreibung können sie folgende [Vorlage](ArchDocVorl.md) verwenden.
 - [ ] Video zur Erstellung eines Repositories, des README.md und draw.io-Diagram: [Video-Download](https://github.com/bjoernmichels/SWA-Hausaufgaben/raw/main/GitHubRepository%20und%20draw_io%20small.mp4)
+- [ ] Bitte nicht zögern den Dozent bei Fragen, Unklarkeiten, Hindernissen zu kontaktieren, denn wir sind hier zum Lernen :-)
 - [ ] :date: Termin: Siehe [Hausaufgaben-Übersicht](README.md).
