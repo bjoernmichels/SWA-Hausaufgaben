@@ -9,4 +9,4 @@ Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
 |**Block 3**<br>20.12.2023<br>KW51||[**Architektur-Präsentation**](/Gruppenarbeit.md)|[**Architektur-Dokumentation**](/Gruppenarbeit.md)|[**Architektur-Dokumentation**](/Gruppenarbeit.md)||
 |**Block 4**<br>10.01.2024<br>KW02|||[**Architektur-Präsentation**](/Gruppenarbeit.md)|[**Architektur-Präsentation**](/Gruppenarbeit.md)|[**Architektur-Dokumentation**](/Gruppenarbeit.md)|
 |**Block 5**<br>27.01.2024<br>KW04|||||[**Architektur-Präsentation**](/Gruppenarbeit.md)|
-|**Block 6**<br>03ö.02.2024<br>KW05|
+|**Block 6**<br>03.02.2024<br>KW05|
