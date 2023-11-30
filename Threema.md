@@ -20,3 +20,4 @@ _Wir möchten Anwendungen unter dem Namen Threema für sicheres Messaging erstel
 - Youtube, CCC [A look into the Mobile Messaging Black Box](https://youtu.be/t3_OXOGe510?si=aKGiFNsz69MMmWY7&t=2046)
 - Threema auf GitHub: [https://github.com/threema-ch](https://github.com/threema-ch)
 - (Spannend) Security Now - Threema Goes Open-Source, https://www.youtube.com/watch?v=oi4H3HYXeOo
+- (Nicht relevant, aber in diesem Kontext spannend) Privacy is Priceless, but Signal is Expensive, Nov 2023, https://signal.org/blog/signal-is-expensive/ und hier liest es jemand vor 😉: https://youtu.be/ovaiH3lG7qk?si=k15OxrnYNIBwcEnz&t=681 
