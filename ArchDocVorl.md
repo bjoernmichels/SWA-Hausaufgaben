@@ -1,4 +1,4 @@
-**Architekturdokumentation der Software *NAME***
+# Architekturdokumentation der Software NAME
 
 Die Architekturdokumentation ist angelehnt an das arc42-Template[^1]
 
