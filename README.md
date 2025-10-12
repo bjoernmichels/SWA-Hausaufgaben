@@ -6,8 +6,11 @@ Strukturvorlage der Architekturdokumentation
 
 GitHub-Video für die Erstellung eines Repository, des README.md und Diagramme. 
 
-Informationen für die Semester/Gruppenarbeiten.
-
+Informationen für die Semester/Gruppenarbeiten:
+* [Threema](Threema.md)
+* [Covid Cert-Apps](CovidCert.md)
+* [TipToi](Tiptoi.md)
+* [Minecraft](Minecraft.md)
 
 
 # OLD
