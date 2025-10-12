@@ -4,28 +4,49 @@ Die Architekturdokumentation ist angelehnt an das arc42-Template[^1]
 
 # Einführung und Ziele
 
-*Kurze Beschreibung der Ziele und Umfeld des Business und der Anwendung* 
+*Kurze Beschreibung der Ziele des Business und der Anwendung* 
 
-# Kontextabgrenzung
-*Kontext-Diagramm und Beschreibung.*
+*Hier kommt das Use Case Diagramm mit Kurzbeschreibung hin*
 
-# Anforderungen
+# Randbedingungen
 
-## Funktionale Anforderungen
+*Benötigen wir für diesen Kurs nicht*
 
-*Use Case- Diagramm + Beschreibung*
+# Kontext & Abgrenzung
 
-## Qualitätsanforderungen
+*Kontextdiagramm und Kurzbeschreibung.*
 
-*Beschreibung der wichtigsten Qualitätsanforderungen (optional: zB in Form von Qualitätsszenarien)*
+# Lösungsstrategie
 
-## Randbedingungen
+*Benötigen wir für diesen Kurs nicht*
 
-*Anforderungen, Vorgaben, welche das Team beim Design der Software einschränkt; Wenn solche bekannt sind.* 
+# Bausteinsicht
+
+*Benötigen wir für diesen Kurs nicht*
+
+# Laufzeitsicht
+
+*Benötigen wir für diesen Kurs nicht*
 
 # Verteilungssicht
 
 *Verteilungsdiagramm + Beschreibung*
+
+# Querschnittliche Konzepte
+
+*Benötigen wir für diesen Kurs nicht*
+
+# Architekturentscheidungen
+
+*Benötigen wir für diesen Kurs nicht*
+
+# Qualitätsanforderungen
+
+*Beschreibung der wichtigsten Qualitätsanforderungen*
+
+# Risiken & Technische Schulden
+
+*Benötigen wir für diesen Kurs nicht*
 
 # Glossar
 
