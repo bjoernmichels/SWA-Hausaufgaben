@@ -1,6 +1,6 @@
 # Architekturdokumentation der Software NAME
 
-Die Architekturdokumentation ist angelehnt an das arc42-Template[^1]
+Die Architekturdokumentation basiert auf dem Template von arc42[^1].
 
 # Einführung und Ziele
 
@@ -10,7 +10,7 @@ Die Architekturdokumentation ist angelehnt an das arc42-Template[^1]
 
 # Randbedingungen
 
-*Benötigen wir für diesen Kurs nicht*
+```Benötigen wir für diesen Kurs nicht```
 
 # Kontext & Abgrenzung
 
@@ -18,15 +18,15 @@ Die Architekturdokumentation ist angelehnt an das arc42-Template[^1]
 
 # Lösungsstrategie
 
-*Benötigen wir für diesen Kurs nicht*
+```Benötigen wir für diesen Kurs nicht```
 
 # Bausteinsicht
 
-*Benötigen wir für diesen Kurs nicht*
+```Benötigen wir für diesen Kurs nicht```
 
 # Laufzeitsicht
 
-*Benötigen wir für diesen Kurs nicht*
+```Benötigen wir für diesen Kurs nicht```
 
 # Verteilungssicht
 
@@ -34,11 +34,11 @@ Die Architekturdokumentation ist angelehnt an das arc42-Template[^1]
 
 # Querschnittliche Konzepte
 
-*Benötigen wir für diesen Kurs nicht*
+```Benötigen wir für diesen Kurs nicht```
 
 # Architekturentscheidungen
 
-*Benötigen wir für diesen Kurs nicht*
+```Benötigen wir für diesen Kurs nicht```
 
 # Qualitätsanforderungen
 
@@ -46,7 +46,7 @@ Die Architekturdokumentation ist angelehnt an das arc42-Template[^1]
 
 # Risiken & Technische Schulden
 
-*Benötigen wir für diesen Kurs nicht*
+```Benötigen wir für diesen Kurs nicht```
 
 # Glossar
 
