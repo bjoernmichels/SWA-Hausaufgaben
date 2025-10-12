@@ -2,9 +2,9 @@
 
 Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
 
-Strukturvorlage der Architekturdokumentation
+Strukturvorlage der Architekturdokumentation: 
 
-GitHub-Video für die Erstellung eines Repository, des README.md und Diagramme. 
+GitHub-Video für die Erstellung eines Repository, des README.md und Diagramme: 
 
 Informationen für die Semester/Gruppenarbeiten:
 * [Threema](Threema.md)
