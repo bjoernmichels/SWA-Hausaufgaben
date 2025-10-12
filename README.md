@@ -1,10 +1,12 @@
 # Kurs Softwarearchitektur: Hausaufgaben
+
 Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
 
-Strukturvorlage der Architkturdokumentation
+Strukturvorlage der Architekturdokumentation
 
 GitHub-Video für die Erstellung eines Repository, des README.md und Diagramme. 
 
+Informationen für die Semester/Gruppenarbeiten.
 
 
 
