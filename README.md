@@ -1,6 +1,6 @@
 # Kurs Softwarearchitektur: Hausaufgaben
 
-Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
+Dieses Repositoriy enthält Unterlagen zu den Hausaufgaben des Kurses SWA.
 
 Strukturvorlage der Architekturdokumentation: [Vorlage](ArchDocVorl.md)
 
