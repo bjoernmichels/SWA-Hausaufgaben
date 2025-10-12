@@ -1,6 +1,19 @@
 # Kurs Softwarearchitektur: Hausaufgaben
 Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
 
+Strukturvorlage der Architkturdokumentation
+
+GitHub-Video für die Erstellung eines Repository, des README.md und Diagramme. 
+
+
+
+
+# OLD
+
+
+
+
+
 | :spiral_calendar: Termin|Einzelarbeit|Gruppe [Threema](Threema.md)|Gruppe<br>[Covid Cert-Apps](CovidCert.md)|Gruppe<br>[TipToi](Tiptoi.md)|Gruppe<br>[Minecraft](Minecraft.md)|
 |-|-|-|-|-|-|
 |**Block 1**<br>22.11.2023<br>KW47|||||
