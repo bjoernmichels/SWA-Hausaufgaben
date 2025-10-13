@@ -13,7 +13,6 @@ _Wir möchten Anwendungen unter dem Namen Threema für sicheres Messaging erstel
   - [Gateway](https://threema.ch/de/gateway)
   - [OpenSource](https://threema.ch/de/open-source )
   - [Server Locations](https://threema.ch/en/faq/server_location)
-  - [Jobs](https://threema.ch/de/jobs)
   - [Changelog](https://threema.com/de/changelog)
   - [Threema Multi-Device: An Architectural Overview](https://threema.ch/en/blog/posts/md-architectural-overview)
 - Threema auf [Youtube](https://www.youtube.com/@Threema_App)
