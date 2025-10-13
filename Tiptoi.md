@@ -3,15 +3,9 @@ Szenario:
 
 _Wir möchten ein Produkt herstellen mit dem Namen **Tiptoi**. "Tiptoi ist ein interaktives Lernspiel bestehend aus einem Digitalstift und einem Spielbrett, Buch oder Puzzle mit digitalem Papier."[^1]_
 
-<!--
-
-## Fragen für die Einzelarbeit
-Aufwand: 2 [Pomodoros](https://de.wikipedia.org/wiki/Pomodoro-Technik).
-- [ ] Wer sind die Benutzer von TipToi?
-- [ ] Aus welchen Anwendungen besteht TipToi?
-- [ ] Welche Anwendungsfälle haben die Anwendungen von TipToi?
-- [ ] Welche Software und Infrastruktur, vermuten Sie, benötigt Ravensburger um TipToi-Spiele zu erstellen? 
--->
+Scope:
+* Alle Anwendungen im "Ökosystem" TipToi
+* Zwei Anwendungen (falls es Mehrere hat) mittels Use-Case-Diagramm beschreiben. Optional: Weitere Anwendungen.
 
 Optional: Haben Sie in Ihrem Umfeld ein TipToi? Dann probieren sie das Produkt aus.
 
@@ -27,4 +21,12 @@ Optional: Haben Sie in Ihrem Umfeld ein TipToi? Dann probieren sie das Produkt a
 - Beitrag von srf zu Spieleentwicklung: https://www.srf.ch/radio-srf-3/digital/specials/computer-im-beruf/ulrich-blum-spieleautor-spiele-sind-anspruchsvoller-geworden
 - TipToi-Tool und ReverseEngineering: https://github.com/entropia/tip-toi-reveng mit wiki: https://github.com/entropia/tip-toi-reveng/wiki
 
-[^1]: https://de.wikipedia.org/wiki/Tiptoi
+
+<!--
+## Fragen für die Einzelarbeit
+Aufwand: 2 [Pomodoros](https://de.wikipedia.org/wiki/Pomodoro-Technik).
+- [ ] Wer sind die Benutzer von TipToi?
+- [ ] Aus welchen Anwendungen besteht TipToi?
+- [ ] Welche Anwendungsfälle haben die Anwendungen von TipToi?
+- [ ] Welche Software und Infrastruktur, vermuten Sie, benötigt Ravensburger um TipToi-Spiele zu erstellen? 
+-->
