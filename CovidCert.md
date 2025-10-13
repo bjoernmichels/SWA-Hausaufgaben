@@ -1,7 +1,7 @@
 # Covid Certificate Apps
 Szenario:
 
-_Wir möchten die Anwendungen für den Umgang mit den Covid Certifikaten erstellen._
+_Wir möchten Anwendungen für den Umgang mit den Covid Certifikaten in der Schweiz erstellen._
 
 **Scope:**
 
