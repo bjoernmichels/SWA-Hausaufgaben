@@ -13,9 +13,7 @@ Aufwand: 2 [Pomodoros](https://de.wikipedia.org/wiki/Pomodoro-Technik).
 - [ ] Welche Software und Infrastruktur, vermuten Sie, benötigt Ravensburger um TipToi-Spiele zu erstellen? 
 -->
 
-Haben Sie in Ihrem Umfeld ein TipToi? Dann probieren sie das Produkt aus.
-
-
+Optional: Haben Sie in Ihrem Umfeld ein TipToi? Dann probieren sie das Produkt aus.
 
 ## Quellen zu TipToi
 - Wikipedia: https://de.wikipedia.org/wiki/Tiptoi
