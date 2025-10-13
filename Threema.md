@@ -15,6 +15,7 @@ _Wir möchten Anwendungen unter dem Namen Threema für sicheres Messaging erstel
   - [OpenSource](https://threema.ch/de/open-source )
   - [Server Locations](https://threema.ch/en/faq/server_location)
   - [Jobs](https://threema.ch/de/jobs)
+  - [Changelog](https://threema.com/de/changelog)
 - Threema auf [Youtube](https://www.youtube.com/@Threema_App)
   - [Company Size](https://youtu.be/33pPkhLrku8?si=AUSZuwtrAbUNu1st&t=248) 
 - Youtube, CCC [A look into the Mobile Messaging Black Box](https://youtu.be/t3_OXOGe510?si=aKGiFNsz69MMmWY7&t=2046)
