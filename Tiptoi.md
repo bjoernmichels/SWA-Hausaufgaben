@@ -17,7 +17,7 @@ Optional: Haben Sie in Ihrem Umfeld ein TipToi? Dann probieren sie das Produkt a
 
 ## Quellen zu TipToi
 - Wikipedia: https://de.wikipedia.org/wiki/Tiptoi
-- Offizielle Seite von Ravensburger: https://www.ravensburger.de/entdecken/ravensburger-marken/tiptoi/index.html
+- Offizielle Seite von Ravensburger: [https://www.ravensburger.de/entdecken/ravensburger-marken/tiptoi/index.html](https://www.ravensburger.de/de-DE/produkte/tiptoi)
 - Spieleanleitungen
   - https://www.ravensburger.de/spielanleitungen/ecm/Spielanleitungen/tiptoi_Anleitung.pdf
   - https://www.ravensburger.de/spielanleitungen/ecm/Spielanleitungen/700%20tiptoi%20Stift%202.0%20Anleitung_Screen.pdf
