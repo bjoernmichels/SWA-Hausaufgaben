@@ -7,7 +7,7 @@ Scope:
 * Alle Anwendungen im "Ökosystem" Minecraft des Herstellers.
 * Zwei Anwendungen (falls es Mehrere hat) mittels Use-Case-Diagramm beschreiben. Optional: Weitere Anwendungen.
 
-Abgrenzung: Ohne Minecraft Dungeons, ohne Minecraft Earth.
+Abgrenzung: Ohne Minecraft Dungeons, ohne Minecraft Legends, ohne Minecraft Earth.
 
 <!--
 ## Fragen für die Einzelarbeit
