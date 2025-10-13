@@ -1,12 +1,13 @@
 # Covid Certificate Apps
 Szenario:
 
-_Wir möchten Anwendungen für den Umgang mit den Covid Certifikaten in der Schweiz erstellen._
+_Wir möchten Anwendungen für den Umgang mit den Covid Zertifikaten in der Schweiz erstellen._
 
 **Scope:**
 
-SOLL: Die Anwendungen auf den Endgeräten für die Bevölkerung. <br>
-Optional: Weitere Anwendungen. <br>
+- Die Anwendungen zu Covid Zertifikaten
+- Zwei Anwendungen (falls es Mehrere hat) mittels Use-Case-Diagramm beschreiben. Optional: Weitere Anwendungen.
+
 OutOfScope: EU und der Rest der Welt :wink:
 
 <!--
