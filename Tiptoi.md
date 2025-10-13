@@ -19,6 +19,7 @@ Optional: Haben Sie in Ihrem Umfeld ein TipToi? Dann probieren sie das Produkt a
   - sowie eines der Bücher.
 - Präsentation von Joachim Breitner "Der Tiptoi-Stift": https://youtu.be/GzXtgR73icg. Interessante Stellen: 04:00, 08:14, 11:04, 14:32, (15:42) zu 20:07, 51:21, 53:55. 
 - TipToi-Tool und ReverseEngineering: [https://github.com/entropia/tip-toi-reveng mit wiki: https://github.com/entropia/tip-toi-reveng/wiki](https://github.com/entropia/tip-toi-reveng/wiki)
+- [Interview ♦ Marco Teubner über Spiele für den Tiptoi](https://www.youtube.com/watch?v=ME9uszUCeP4#t=7m54s)
 - (weniger relevant) Beitrag von srf zu Spieleentwicklung: https://www.srf.ch/radio-srf-3/digital/specials/computer-im-beruf/ulrich-blum-spieleautor-spiele-sind-anspruchsvoller-geworden
 
 
