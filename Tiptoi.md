@@ -1,7 +1,7 @@
 # TipToi
 Szenario:
 
-_Wir möchten ein Produkt herstellen mit dem Namen **Tiptoi**. "Tiptoi ist ein interaktives Lernspiel bestehend aus einem Digitalstift und einem Spielbrett, Buch oder Puzzle mit digitalem Papier."[^1]_
+_Wir möchten ein Produkt herstellen mit dem Namen **Tiptoi**. "Tiptoi ist ein interaktives Lernspiel bestehend aus einem Digitalstift und einem Spielbrett, Buch oder Puzzle mit digitalem Papier."_
 
 Scope:
 * Alle Anwendungen im "Ökosystem" TipToi
