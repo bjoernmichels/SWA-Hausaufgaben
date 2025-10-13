@@ -3,7 +3,9 @@ Szenario:
 
 _Wir möchten ein Sandbox-Computerspiel mit dem Namen **Minecraft** entwickeln._
 
-(Das Spiel wurde seit 2009 laufend weiterentwickelt und ausgebaut. Für dieses Szenrio wollen wir die Anwendungen aber direkt komplett bauen) 
+Scope:
+* Alle Anwendungen im "Ökosystem" Minecraft
+* Zwei Anwendungen (falls es Mehrere hat) mittels Use-Case-Diagramm beschreiben. Optional: Weitere Anwendungen.
 
 Abgrenzung: Ohne Minecraft Dungeons, ohne Minecraft Earth.
 
