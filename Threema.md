@@ -5,7 +5,7 @@ _Wir möchten Anwendungen unter dem Namen Threema für sicheres Messaging erstel
 
 **Scope:**
 - Alle Anwendungen von Threema
-- Nur eine (von Euch gewählte) Anwendung mittels Use-Case-Diagramm dokumentieren. Optional: Weitere Anwendungen.
+- Zwei Anwendungen (falls es Mehrere hat) mittels Use-Case-Diagramm beschreiben. Optional: Weitere Anwendungen.
 
 ## Quellen
 - Threema auf wiki: [Threema auf wiki](https://de.wikipedia.org/wiki/Threema)
