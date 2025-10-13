@@ -4,7 +4,7 @@ Szenario:
 _Wir möchten ein Produkt herstellen mit dem Namen **Tiptoi**. "Tiptoi ist ein interaktives Lernspiel bestehend aus einem Digitalstift und einem Spielbrett, Buch oder Puzzle mit digitalem Papier."_
 
 Scope:
-* Alle Anwendungen im "Ökosystem" TipToi
+* Alle Anwendungen im "Ökosystem" TipToi des Herstellers
 * Zwei Anwendungen (falls es Mehrere hat) mittels Use-Case-Diagramm beschreiben. Optional: Weitere Anwendungen.
 
 Optional: Haben Sie in Ihrem Umfeld ein TipToi? Dann probieren sie das Produkt aus.
