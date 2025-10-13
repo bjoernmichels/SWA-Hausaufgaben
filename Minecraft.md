@@ -23,7 +23,6 @@ Kennt Ihr Minecraft noch nicht? Probiert es kurz aus.
 ## Quellen
 - https://de.wikipedia.org/wiki/Minecraft
 - https://www.minecraft.net/de-de
-- https://www.minecraft.net/en-us/mojang-careers
 - https://docs.microsoft.com/en-us/minecraft/creator/
 - https://developer.microsoft.com/en-us/games/blog/how-minecraft-realms-moved-compute-storage-from-aws-to-azure/
 - https://youtu.be/xO5L6zoT2GQ "Henrik Kniberg: How we make Minecraft Releases"
@@ -32,5 +31,8 @@ Kennt Ihr Minecraft noch nicht? Probiert es kurz aus.
 - https://bugs.mojang.com/secure/BrowseProjects.jspa?selectedCategory=all&selectedProjectType=all Jira der Entwickler.
 
 weniger relevant
-- https://github.com/Mojang (https://github.com/Mojang/EducationContent)
+- https://www.minecraft.net/en-us/mojang-careers
+- https://github.com/Mojang
+- https://github.com/Mojang/EducationContent
+- 
 
