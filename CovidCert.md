@@ -25,6 +25,6 @@ Aufwand: 2 [Pomodori](https://de.wikipedia.org/wiki/Pomodoro-Technik).
 - Covid Certificate Apps Repositories des BIT: https://github.com/admin-ch/CovidCertificate-App-iOS und https://github.com/admin-ch/CovidCertificate-App-Android
 - Covid Certificate Documents: https://github.com/admin-ch/CovidCertificate-Documents
 - Big Picture, Overview of the whole system and how it interacts with the CovidCode App: https://github.com/admin-ch/CovidCode-UI/wiki/Big-Picture
-- Ubique: https://www.ubique.ch/
+- Ubique: [https://www.ubique.ch/](https://stories.ubique.ch/swisscovid/)
 - (Spannend) EU Digital COVID Certificate Gateway Software Design: https://github.com/eu-digital-green-certificates/dgc-gateway/blob/main/docs/software-design-dgc-gateway.md
 - (Spannend: Die Architekturdokumentation in Deutschlandd) Technical Specifications for Digital Green Certificates Volume 4: https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-certificates_v4_en.pdf (Quelle: https://ec.europa.eu/health/ehealth/covid-19_en)
