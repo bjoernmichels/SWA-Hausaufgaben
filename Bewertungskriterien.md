@@ -45,6 +45,6 @@
 | Die Präsentation der Architekturinhalte ist verständlich und ansprechend (keine Vorgaben bezüglich Form)	|2	| |
 | Inhalte werden fachlich korrekt erläutert	|1	| |
 | Zeitliche Vorgabe der Präsentation wird eingehalten	|1	| |
-| **Total Punkte**	107	0
+| **Total Punkte** |	107	|0
 | 	|**Note**	|1|
 | 	|**Note (.5)**	|1|
