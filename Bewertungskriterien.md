@@ -14,6 +14,9 @@
 | **Architekturdokumentation**| | 	
 | Die geforderten Inhalte des Template arc42 gm. Aufgabenstellung wurde korrekt angewendet.|	6	| 
 | Kurzbeschreibung der Anwendung der Gruppe ist in der Einführung vorhanden und fachlich korrekt.|	2	| 
+| Lösung wäre in der Praxis technisch machbar und sinnvoll (70%)	|4	| 
+| Die Diagramme sind Konsistent (passen zusammen)	|4	| 
+| Ein Glossar ist vorhanden	|1	| 
 | **Diagramme: Kontextdiagramm**		|| 
 | Kontextdiagramm: Kontext ist fachlich nachvollziehbar gewählt.|	1	| 
 | Kontextdiagramm: Das Umfeld ist nachvollziehbar und vollständig (80%) modelliert	|5	| 
@@ -35,9 +38,6 @@
 | **Qualitätsanforderungen**	|	| 
 | Drei Qualitätsanforderungen sind vorhanden	|3	| 
 | Drei Qualitätsanforderungen sind fachlich korrekt und nachvollziehbar beschrieben	|6	| 
-| Lösung wäre in der Praxis technisch machbar und sinnvoll (70%)	|4	| 
-| Die Diagramme sind Konsistent (passen zusammen)	|4	| 
-| Ein Glossar ist vorhanden	|1	| 
 | **Arbeitsweise und Präsenation**	|	| 
 | Einhalten der Termine 	|2	| 
 | Erste Ergebnisse sind frühzeitig vorhanden und Feedback via GitHub wird eingearbeitet oder beantwortet	|2	| 
