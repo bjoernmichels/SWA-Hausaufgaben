@@ -2,12 +2,12 @@
 		
 * Datum	19.11.2025
 * Gruppe
-* Student:in 1
-* Student:in 2
-* Student:in 3
-* Student:in 4
-* Klasse	25.08.WB.WIHF.5.OOP
-* Dozent	Björn Michels	
+* Student 1
+* Student 2
+* Student 3
+* Student 4
+* Klasse 25.08.WB.WIHF.5.OOP
+* Dozent Björn Michels	
 		
 | Beurteilungskriterium | Max Punkte | 
 | --- | --- |
