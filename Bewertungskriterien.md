@@ -10,7 +10,7 @@
 * Dozent	Björn Michels	
 		
 | Beurteilungskriterium | Max Punkte | 
-| --- | --- |--- |
+| --- | --- |
 | **Architekturdokumentation**| | 	
 | Die geforderten Inhalte des Template arc42 gm. Aufgabenstellung wurde korrekt angewendet.|	6	| 
 | Kurzbeschreibung der Anwendung der Gruppe ist in der Einführung vorhanden und fachlich korrekt.|	2	| 
