@@ -39,8 +39,8 @@ Keine
 ### Aufgabe 
 
 Erstellten Sie für das Softwaresystm Ihrer Gruppe die **Architekturdokumentation** mit den geforderten Inhalten:
-* Kurze Einführung in die Fachanwendung
 * Architekturdokumentation nach arc42
+* Kurze Einführung in die Fachanwendung
 * Kontextdiagramm(e) mit Kurzbeschreibung
 * Anwendungsfalldiagramm(e) mit Kurzbeschreibung
 * Verteilungsdiagramm mit Kurzbeschreibungen
