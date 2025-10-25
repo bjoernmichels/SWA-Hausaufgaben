@@ -4,7 +4,9 @@ Die Architekturdokumentation basiert auf dem Template von arc42[^1].
 
 # Einführung und Ziele
 
-*Kurze Beschreibung der Ziele des Business und der Anwendung* 
+*Kurze Beschreibung der Anwendung und Ziele des Business* 
+
+## Funktionale Anforderungen
 
 *Hier kommt das Use Case Diagramm mit Kurzbeschreibung hin*
 
@@ -50,6 +52,6 @@ Die Architekturdokumentation basiert auf dem Template von arc42[^1].
 
 # Glossar
 
-*Bei Bedarf. Denken sie an das Zielpublikum, welches sich mit der Materie nicht im Detail auskennt.*
+*Denken sie an das Zielpublikum, welches sich mit der Materie nicht im Detail auskennt.*
 
 [^1]: [arc42-Template](https://www.arc42.de/overview/)
