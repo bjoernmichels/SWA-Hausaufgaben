@@ -23,6 +23,6 @@ Ablauf:
 ### Bewertung
 
 
-Die Benotung wird gm Lehrplan auf halbe Note gm. den Bewertungskriterien erstellt.
+Die Benotung wird gm Lehrplan auf halbe Note gm. den [Bewertungskriterien](Bewertungskriterien.md) erstellt.
 
 Bewertung wird vom Dozent am 19.11 (oder kurz danach) erstellt. 
