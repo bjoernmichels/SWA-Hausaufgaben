@@ -32,6 +32,7 @@
 | Verteilungsdiagramm: Nodes und Komponenten sind nachvollziehbar und vollständig (80%)	|5	| 
 | Verteilungsdiagramm: Die Notation ist korrekt	|7	| 
 | Verteilungsdiagramm: Kurzbeschreibungen stimmen mit dem Diagramm überein	|5	| 
+| **Qualitätsanforderungen**	|	| 
 | Drei Qualitätsanforderungen sind vorhanden	|3	| 
 | Drei Qualitätsanforderungen sind fachlich korrekt und nachvollziehbar beschrieben	|6	| 
 | Lösung wäre in der Praxis technisch machbar und sinnvoll (70%)	|4	| 
@@ -46,5 +47,3 @@
 | Inhalte werden fachlich korrekt erläutert	|1	| 
 | Zeitliche Vorgabe der Präsentation wird eingehalten	|1	| 
 | **Total Punkte** |	107	|
-| 	|**Note**	|
-| 	|**Note (.5)**	|
