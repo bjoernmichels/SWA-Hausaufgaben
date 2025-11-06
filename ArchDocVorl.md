@@ -1,3 +1,11 @@
+# Nächster Kurs das Template anpasen!
+
+- Erst Kontext
+- Dann Anforderugnen
+- ...
+
+(siehe Info-Board-Vorlage) 
+
 # Architekturdokumentation der Software NAME
 
 Die Architekturdokumentation basiert auf dem Template von arc42[^1].
@@ -10,7 +18,7 @@ Die Architekturdokumentation basiert auf dem Template von arc42[^1].
 
 *Hier kommt das Use Case Diagramm mit Kurzbeschreibung hin*
 
-# Randbedingungen
+## Randbedingungen
 
 ```Benötigen wir für diesen Kurs nicht```
 
